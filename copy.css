@@ -1,0 +1,47 @@
+#logo{
+    
+margin-top: 20px;
+}
+#edu{
+    width:180px;
+
+}
+.down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.form{
+    display:block;
+}
+.tellus{
+    width: 370px;
+    height: 35px;
+}
+.first{
+    display: flex;
+    
+}
+.second{
+    margin-left: 15px;
+}
+#btn{
+margin-left: 230px;
+background-color: rgb(75, 75, 243);
+color: white;
+margin-top: 10px;
+border-radius:5px 0 5px 0;
+border-color:rgb(75, 75, 243);
+height: 25px;
+width: 150px;
+}
+.container{
+    display: flex;
+    margin-left: 260px;
+ 
+}
+.image{
+    margin-left: 15px;
+}
+#si{
+    margin-left: 260px;
+}
